@@ -49,7 +49,7 @@ There are a variety of reasons businesses and users might choose to develop appl
 
 == Executing the services
 
- To reproduce this intro example, please follow the steps.
+To reproduce this intro example, please follow the steps.
 
  1. Clone this repository
  2. Build each service's (1, 2, and 3) Docker container (note: if not on arm64 silicon chip, will need to update image names in compose file, as well).
