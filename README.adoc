@@ -69,9 +69,9 @@ Separately, we can test Neo4j and service4 with additional steps.
 13. Test review backing service: Open a command line window and execute `curl localhost:8083/neo/reviews` or `curl localhost:8083/neo/reviews/178186`.
 14. See the results of reviews appear :)
 
-// == Content
+ == Content
 
-// * Blog post: https://jmhreif.com/blog/microservices-level7/[Microservices Level 7^]
+ * Blog post: https://jmhreif.com/blog/microservices-level7/[Microservices Level 7^]
 
 == Previous steps
 
