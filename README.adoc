@@ -75,7 +75,7 @@ Separately, we can test Neo4j and service4 with additional steps.
 
  == Content
 
- * Blog post: https://jmhreif.com/blog/microservices-level7/[Microservices Level 7^]
+ * Blog post: https://jmhreif.com/blog/2022/microservices-level7/[Microservices Level 7^]
 
 == Previous steps
 
